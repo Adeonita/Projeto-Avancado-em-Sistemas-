@@ -1,0 +1,20 @@
+package main;
+import roteiro1.parte2.RelatorioReserva;
+import roteiro1.parte2.ServicoQuarto;
+import roteiro1.parte2.ServicoReserva;
+
+public class TesteConexao {
+
+	public static void main(String[] args) {
+		ServicoQuarto quarto = new ServicoQuarto();
+		quarto.verificarQuarto();
+		
+		ServicoReserva reserva = new ServicoReserva();
+		reserva.criarReserva();
+		
+		RelatorioReserva relatorio = new RelatorioReserva();
+		relatorio.gerarRelatorio();
+	
+	}
+	
+}

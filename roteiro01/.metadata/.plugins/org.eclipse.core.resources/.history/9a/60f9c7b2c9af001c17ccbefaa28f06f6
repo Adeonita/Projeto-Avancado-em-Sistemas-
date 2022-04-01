@@ -1,0 +1,11 @@
+package parte01;
+
+public class MysqlConnection {
+	public static void main() {
+		this.connect();
+	}
+	
+	public void connect() {
+		System.out.println("Conectando com o MySQL");
+	}
+}

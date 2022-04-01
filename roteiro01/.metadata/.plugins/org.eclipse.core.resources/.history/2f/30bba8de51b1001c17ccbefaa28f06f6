@@ -1,0 +1,15 @@
+package roteiro1.parte1;
+import roteiro1.parte1.MysqlConnection;
+
+public class RelatorioReserva {
+	private MysqlConnection connection;
+
+	public RelatorioReserva() {
+		this.connection = new MysqlConnection();
+	}
+	
+	public void gerarRelatorio() {
+		
+	}
+	
+}

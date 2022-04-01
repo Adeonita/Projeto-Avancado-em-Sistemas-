@@ -1,0 +1,21 @@
+package main;
+import roteiro1.parte3.RelatorioReserva;
+import roteiro1.parte3.ServicoQuarto;
+import roteiro1.parte3.ServicoReserva;
+import roteiro1.parte3.MysqlConnection
+
+public class TesteConexao {
+
+	public static void main(String[] args) {
+		ServicoQuarto quarto = new ServicoQuarto();
+		quarto.verificarQuarto();
+		
+		ServicoReserva reserva = new ServicoReserva();
+		reserva.criarReserva();
+		
+		RelatorioReserva relatorio = new RelatorioReserva();
+		relatorio.gerarRelatorio();
+	
+	}
+	
+}

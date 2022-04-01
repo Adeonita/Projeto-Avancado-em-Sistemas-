@@ -1,0 +1,12 @@
+package main;
+import roteiro1.parte1.MysqlConnection;
+import roteiro1.parte1.*;
+
+public class TesteConexao {
+
+	public static void main(String[] args) {
+		ServicoQuarto quarto = new ServicoQuarto();
+		
+	}
+	
+}

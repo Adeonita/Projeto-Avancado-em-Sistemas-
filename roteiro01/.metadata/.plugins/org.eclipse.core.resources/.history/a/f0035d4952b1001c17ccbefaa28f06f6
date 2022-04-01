@@ -1,0 +1,13 @@
+package main;
+import roteiro1.parte1.ServicoQuarto;
+
+public class TesteConexao {
+
+	public static void main(String[] args) {
+		ServicoQuarto quarto = new ServicoQuarto();
+		quarto.verificarQuarto();
+		
+		ServicoReserva reserva = new ServicoReserva();
+		}
+	
+}

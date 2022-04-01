@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/adeonita/Documentos/uneb/2022.1/PAS/.metadata/.plugins/org.eclipse.jdt.core
+1381745729.index
+1865797976.index
+646308851.index

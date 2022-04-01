@@ -1,0 +1,7 @@
+package roteiro1.parte1;
+impport MySqlConnection;
+
+public class ServicoQuarto {
+	private MySqlConnection connection;
+	
+}
