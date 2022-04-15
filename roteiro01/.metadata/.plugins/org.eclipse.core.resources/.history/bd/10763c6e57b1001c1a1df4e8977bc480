@@ -1,8 +1,0 @@
-package databases;
-
-public class SqlServer implements Connection {
-
-	public connect() {
-		System.out.println("Conectando com Sql Server");
-	}
-}

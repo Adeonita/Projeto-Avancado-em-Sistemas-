@@ -4,4 +4,8 @@
     <fullyQualifiedTypeName name="roteiro1.parte1.ServicoQuarto"/>
     <fullyQualifiedTypeName name="roteiro1.parte1.ServicoReserva"/>
     <fullyQualifiedTypeName name="roteiro1.parte1.RelatorioReserva"/>
+    <fullyQualifiedTypeName name="databases.OracleConnection"/>
+    <fullyQualifiedTypeName name="databases.SqlServer"/>
+    <fullyQualifiedTypeName name="databases.Connection"/>
+    <fullyQualifiedTypeName name="roteiro1.parte3.Connection"/>
 </qualifiedTypeNameHistroy>
