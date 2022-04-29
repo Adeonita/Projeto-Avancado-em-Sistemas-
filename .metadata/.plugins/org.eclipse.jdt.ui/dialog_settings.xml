@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-11"/>
+	<item key="org.eclipse.jdt.ui.lastuserlibrary" value="/home/adeonita/Downloads/Roteiro4_nova_arma-1.0-SNAPSHOT.jar"/>
+	<item key="UserLibraryLoadSaveDialog.size" value="560,544"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="/home/adeonita/Downloads"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -27,5 +30,12 @@
 		<item key="updateTextualMatches" value="false"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_unimplemented" value="true"/>
 	</section>
 </section>
