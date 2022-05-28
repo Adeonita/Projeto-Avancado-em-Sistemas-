@@ -5,6 +5,10 @@
 	<item key="org.eclipse.jdt.ui.lastuserlibrary" value="/home/adeonita/Downloads/Roteiro4_nova_arma-1.0-SNAPSHOT.jar"/>
 	<item key="UserLibraryLoadSaveDialog.size" value="560,544"/>
 	<item key="org.eclipse.jdt.ui.lastextjar" value="/home/adeonita/Downloads"/>
+	<item key="TypeHierarchyViewPart.hierarchyview" value="2"/>
+	<item key="TypeHierarchyViewPart.qualifiednames" value="false"/>
+	<item key="TypeHierarchyViewPart.linkeditors" value="false"/>
+	<item key="TypeHierarchyViewPart.orientation" value="3"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -37,5 +41,11 @@
 	<section name="NewClassWizardPage">
 		<item key="create_constructor" value="false"/>
 		<item key="create_unimplemented" value="true"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="2"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item key="index" value="0"/>
 	</section>
 </section>

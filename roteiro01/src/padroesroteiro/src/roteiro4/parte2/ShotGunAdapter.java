@@ -13,7 +13,7 @@ public class ShotGunAdapter extends ShotGun implements Arma
 	@Override
 	public void mirar() 
 	{
-		this.shootKill();
+		this.shotKill();
 	}
 	
 	@Override
